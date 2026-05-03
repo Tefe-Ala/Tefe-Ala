@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on full-stack web development projects  
-- 🌱 I’m learning **Vue.js, Laravel, and Cybersecurity concepts**  
+- 🔭 I’m currently working on full-stack web development projects using Vue js and Laravel (API)
+- 🌱 I’m conducting research on Cybersecurity specially cryotography, Network Security, Machine learning**  
 - 🛡️ Passionate about **cybersecurity, cryptography, and secure systems design**  
 - 🤝 I’m looking to collaborate on **web apps and security-related projects**  
 - 🎯 Goal: Build real-world impactful software solutions  
@@ -20,7 +20,8 @@
 **Frontend:**
 - HTML, CSS, JavaScript  
 - Vue.js  
-- Tailwind CSS  
+- Tailwind CSS
+  
 
 **Backend:**
 - Laravel (PHP)  
@@ -45,6 +46,10 @@ A smart web app that helps users manage important dates and reminders.
 💻 GitHub Repo: https://github.com/Tefe-Ala/Date_Reminder_System  
 
 ---
+### Student result chatbot
+A telegram bot used to help students to view thier course assessment and grade.
+   🌐 Bot link:   https://t.me/tefe_result_bot
+  💻 GitHub Repo: 
 
 ## 📫 Connect With Me
 
