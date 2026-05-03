@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Tefera Alagaw
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Tefera+Alagaw;Full-Stack+Developer;Cybersecurity+and + Cryptography + Researcher;Network + Security + Researcher;Machine + Learning +  Enthusiast;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-🚀 Full-Stack Web Developer | Cybersecurity Enthusiast | Network Security Learner
+🚀 Full-Stack Web Developer | Cybersecurity and Cryptography Enthusiast | Network Security Researcher | Machine Learning Researcher
 
 ---
 
@@ -33,7 +33,8 @@
 **Tools:**
 - Git & GitHub  
 - Vercel  
-- VS Code  
+- VS Code
+- Latex
 
 ---
 
@@ -48,13 +49,15 @@ A smart web app that helps users manage important dates and reminders.
 ---
 ### Student result chatbot
 A telegram bot used to help students to view thier course assessment and grade.
-   🌐 Bot link:   https://t.me/tefe_result_bot
-  💻 GitHub Repo: 
 
+   🌐 Bot link:   https://t.me/tefe_result_bot
+  💻 GitHub Repo: https://github.com/Tefe-Ala/t-laravel-telegram-bot.git
+
+---
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: tefe7ala@gmail.com  
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile ](https://www.linkedin.com/in/tefera-alagaw-a95073230) 
 - 🐙 GitHub: https://github.com/Tefe-Ala  
 
 ---
