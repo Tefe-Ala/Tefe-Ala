@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Tefera+Alagaw;Vue+%7C+Laravel+Developer;Cybersecurity+Researcher;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Tefera+Alagaw;Vue+%7C+Laravel+Developer;Cybersecurity+and+Cryptography+Researcher;Network+Security+Researcher;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!;Let's Collaborate!" />
 </p>
 
-🚀 Full-Stack Web Developer | Cybersecurity and Cryptography Enthusiast | Network Security Researcher | Machine Learning Researcher
+🚀 Full-Stack Web Developer | Cybersecurity and Cryptography Researcher | Network Security Researcher | Machine Learning Enthusiast
 
 ---
 
