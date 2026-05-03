@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Tefera+Alagaw;Vue+%7C+Laravel+Developer;Cybersecurity+and+Cryptography+Researcher;Network+Security+Researcher;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!;Let's Collaborate!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Tefera+Alagaw;Full-Stack+Developer;Cybersecurity+Researcher;Cryptography+Enthusiast;Machine+Learning+Explorer;Welcome+to+my+GitHub!" />
 </p>
 
 🚀 Full-Stack Web Developer | Cybersecurity and Cryptography Researcher | Network Security Researcher | Machine Learning Enthusiast
