@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi,+I%27m+Tefera+Alagaw;Vue+%7C+Laravel+Developer;Cybersecurity+and+Cryptography+Researcher;Network+Security+Researcher;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!;Let%27s+Collaborate!" />
 </p>
 
-🚀 Full-Stack Web Developer | Cybersecurity and Cryptography Researcher | Network Security Researcher | Machine Learning Enthusiast
+🚀 Full-Stack Web Developer | Odoo Consultant | ERP Developer| Cybersecurity and Cryptography Researcher | Network Security Researcher | Machine Learning Enthusiast
 
 ---
 
